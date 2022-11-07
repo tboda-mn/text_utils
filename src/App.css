@@ -12,20 +12,32 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.navbar{
+  color:#ff0808;
+  background-color: black;
+}
+.navbar-brand{
+  color: #ff0808;
+}
+.navbar navbar-expand-lg bg-light{
+  color: #000000;
+}
+.nav-link active{
+  color: #000000;
+}
 .App-header {
-  background-color: #282c34;
+  background-color: #000000;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ff0808;
 }
 
 @keyframes App-logo-spin {
@@ -38,5 +50,5 @@
 }
 
 .blank{
-  color: rgb(32, 8, 246);
+  color: rgb(241, 138, 2);
 }
