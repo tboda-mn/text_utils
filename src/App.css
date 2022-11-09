@@ -16,14 +16,18 @@
   color:#ff0808;
   background-color: black;
 }
+.navbar navbar-expand-lg{
+  color: #000000;
+  background-color: #000000;
+}
+.nav-link{
+  color: #f8f1f1;
+}
+.collapse navbar-collapse{
+  background-color:#000000;
+}
 .navbar-brand{
-  color: #ff0808;
-}
-.navbar navbar-expand-lg bg-light{
-  color: #000000;
-}
-.nav-link active{
-  color: #000000;
+  color:rgb(255, 253, 253);
 }
 .App-header {
   background-color: #000000;
